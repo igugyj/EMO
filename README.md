@@ -20,9 +20,26 @@
 2. `emoCut.py` is an image cropping tool that can split large images into small emoticons. See the comments in the file for usage details.
 3. All files in the emoticon library are sourced from the internet.
 
+### Usage
+
+git history is **heavy**, to use it, clone the repo or download a folder via some [plugins](https://addons.mozilla.org/firefox/addon/gitzip/).
+
+e.g.
+
+```shell
+git clone --depth 1 https://github.com/igugyj/EMO.git # HTTPS
+# or
+git clone --depth 1 git@github.com:igugyj/EMO.git # SSH
+```
+
 ## Infor
+
 <!-- stats_start -->
+<<<<<<< HEAD
 **Total: 1119 files**
+=======
+**Total: 1120 files**
+>>>>>>> master
 
 <details>
 <summary>Click to expand folder statistics</summary>
@@ -35,7 +52,11 @@
 | cat (37) | classicyellowemoji (11) | dog (12) | doro (98) | duck (3) |
 | fakeHuman (24) | fakeJoke (9) | games (2) | haku (27) | honorOfKing (12) |
 | http (21) | lovely (81) | lu (16) | manosaba_Emma (20) | manosaba_Shirley (24) |
+<<<<<<< HEAD
 | mi2 (115) | mid_pic_ym (9) | mujika (59) | other (107) | programing (34) |
+=======
+| mi2 (115) | mid_pic_ym (9) | mujika (59) | other (108) | programing (34) |
+>>>>>>> master
 | sbti (27) | stardust (8) | text (52) | win11_tan (17) | 超かぐや姫！ (9) |
 
 </details>
@@ -43,7 +64,7 @@
 
 ## Acknowledge
 
-All emoticons in this repository are sourced from the internet.  
+All emoticons in this repository are sourced from the internet.
 They are intended **only for personal learning and communication**, not for commercial use.
 
 If you are the copyright owner of any material and believe it should not be included here, please contact me via [GitHub Issues](https://github.com/csy214-beep/EMO/issues) and I will remove it promptly.
