@@ -35,7 +35,7 @@ git clone --depth 1 git@github.com:igugyj/EMO.git # SSH
 ## Infor
 
 <!-- stats_start -->
-**Total: 1178 files**
+**Total: 1182 files**
 
 <details>
 <summary>Click to expand folder statistics</summary>
@@ -47,7 +47,7 @@ git clone --depth 1 git@github.com:igugyj/EMO.git # SSH
 | TomAndJerry (15) | UseCautiously (7) | ai (22) | broifall (6) | card (4) |
 | cat (38) | classicyellowemoji (11) | custom (4) | dog (12) | doro (98) |
 | ds-whale-girl (17) | duck (3) | fakeHuman (24) | fakeJoke (9) | games (2) |
-| haku (27) | honorOfKing (12) | http (21) | lovely (81) | lu (16) |
+| haku (27) | honorOfKing (12) | http (21) | lovely (85) | lu (16) |
 | manosaba_Emma (20) | manosaba_Shirley (24) | mi2 (116) | mid_pic_ym (9) | mujika (59) |
 | other (109) | programing (34) | sbti (27) | stardust (8) | text (52) |
 | vrchat-meme (30) | win11_tan (17) | 超かぐや姫！ (9) |  |  |
