@@ -35,7 +35,7 @@ git clone --depth 1 git@github.com:igugyj/EMO.git # SSH
 ## Infor
 
 <!-- stats_start -->
-**Total: 1185 files**
+**Total: 1211 files**
 
 <details>
 <summary>Click to expand folder statistics</summary>
@@ -43,14 +43,14 @@ git clone --depth 1 git@github.com:igugyj/EMO.git # SSH
 |  |  |  |  |  |
 |---|---|---|---|---|
 | 14 (7) | Erina (29) | FX_jlm (3) | GI-VODYANITSA (18) | MiDramatic (21) |
-| Milltina (16) | Pandas (88) | Penguin (13) | Pochi (13) | Rokkā (3) |
-| Shirley (27) | TomAndJerry (15) | UseCautiously (7) | ai (22) | broifall (6) |
-| card (4) | cat (38) | classicyellowemoji (11) | custom (4) | dog (12) |
-| doro (98) | ds-whale-girl (17) | duck (3) | fakeHuman (24) | fakeJoke (9) |
-| games (2) | haku (27) | honorOfKing (12) | http (21) | lovely (84) |
-| lu (16) | manosaba_Emma (20) | manosaba_Shirley (24) | mi2 (117) | mid_pic_ym (9) |
-| mujika (59) | other (109) | programing (34) | sbti (27) | stardust (8) |
-| text (52) | vrchat-meme (30) | win11_tan (17) | 超かぐや姫！ (9) |  |
+| Milltina (16) | Pandas (88) | Penguin (13) | Pochi (14) | Rokkā (3) |
+| Shirley (27) | TomAndJerry (15) | UseCautiously (7) | ai (23) | broifall (6) |
+| card (4) | cat (39) | classicyellowemoji (11) | custom (4) | dog (12) |
+| doro (103) | ds-whale-girl (17) | duck (3) | fakeHuman (24) | fakeJoke (10) |
+| games (2) | haku (27) | honorOfKing (12) | http (21) | lovely (87) |
+| lu (16) | manosaba_Emma (20) | manosaba_Shirley (24) | mi2 (119) | mid_pic_ym (9) |
+| mujika (70) | other (109) | programing (34) | sbti (27) | stardust (8) |
+| text (53) | vrchat-meme (30) | win11_tan (17) | 超かぐや姫！ (9) |  |
 
 </details>
 <!-- stats_end -->
